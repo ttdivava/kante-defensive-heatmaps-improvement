@@ -1,4 +1,4 @@
-# **Improving Soccer Heatmaps:
+# Improving Soccer Heatmaps:
 
 A Defensive Analysis of N’Golo Kanté (Leicester City, 2015–16)**
 
