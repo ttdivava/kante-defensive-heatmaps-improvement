@@ -1,6 +1,6 @@
 # Improving Soccer Heatmaps:
 
-A Defensive Analysis of N’Golo Kanté (Leicester City, 2015–16)**
+A Defensive Analysis of N’Golo Kanté (Leicester City, 2015–16)
 
 This project reproduces and critically improves a popular soccer “player heatmap” visualization using **StatsBomb open event data**.
 It focuses on **N’Golo Kanté’s defensive actions** during Leicester City’s historic 2015–16 Premier League title-winning season.
