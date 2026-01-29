@@ -1,5 +1,8 @@
 # Improving Soccer Heatmaps:
 
+Original inspiration:
+https://medium.com/@trym.sorum/data-viz-3-building-a-heatmap-in-python-9b295a6240f0
+
 A Defensive Analysis of N’Golo Kanté (Leicester City, 2015–16)
 
 This project reproduces and critically improves a popular soccer “player heatmap” visualization using **StatsBomb open event data**.
